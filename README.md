@@ -113,3 +113,4 @@ Bạn có thể mở và sử dụng ngay không cần cài đặt tại:
   <b>© 2026 Nghiệp Vụ AI Workstation. All rights reserved.</b><br/>
   <i>Xây dựng với niềm đam mê dành cho thị trường chứng khoán Việt Nam.</i>
 </p>
+
